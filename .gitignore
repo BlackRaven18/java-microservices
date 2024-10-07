@@ -83,3 +83,4 @@ Vagrantfile
 #docker data
 /product-service/data
 /order-service/mysql
+/inventory-service/docker/mysql
