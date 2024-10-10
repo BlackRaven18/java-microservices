@@ -84,3 +84,4 @@ Vagrantfile
 /product-service/data
 /order-service/mysql
 /inventory-service/docker/mysql
+/api-gateway/volume-data
