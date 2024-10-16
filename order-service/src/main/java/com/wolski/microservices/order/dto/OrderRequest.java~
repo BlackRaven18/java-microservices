@@ -1,0 +1,4 @@
+package com.wolski.microservices.order.dto;
+
+public record OrderRequest(Long id, ) {
+}
